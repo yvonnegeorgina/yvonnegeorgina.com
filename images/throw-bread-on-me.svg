@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Throw bread on me duck illustration</title>
+  <desc id="desc">Stylized drawing of a duck on a yellow background with the caption Throw Bread On Me.</desc>
+  <rect width="600" height="600" fill="#f6c531"/>
+  <ellipse cx="280" cy="320" rx="170" ry="90" fill="#8a7350" stroke="#000" stroke-width="4"/>
+  <polygon points="110,320 150,270 150,370" fill="#8a7350" stroke="#000" stroke-width="4"/>
+  <ellipse cx="440" cy="250" rx="65" ry="65" fill="#000" stroke="#000" stroke-width="4"/>
+  <polygon points="505,248 565,265 505,282" fill="#d4a542" stroke="#000" stroke-width="4"/>
+  <polygon points="330,430 315,500 295,430" fill="#f6c531" stroke="#000" stroke-width="8"/>
+  <polygon points="220,430 205,500 185,430" fill="#f6c531" stroke="#000" stroke-width="8"/>
+  <path d="M130 395 C180 420 220 430 250 435 C350 450 420 440 470 415" fill="#48a04a" stroke="#2f7d2f" stroke-width="6"/>
+  <text x="300" y="540" font-family="'Times New Roman', serif" font-size="38" text-anchor="middle" fill="#000">
+    THROW BREAD ON ME
+  </text>
+</svg>
